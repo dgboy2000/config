@@ -163,7 +163,7 @@ alias dir 'ls -alg'		# show group, size information
 #alias mroe more
 
 # Danny's aliases
-alias 140 'cd ~cs140/pintos'
+alias 140 'cd ~degoodm/cs140/pintos'
 
 #-------------#
 # Completions #
