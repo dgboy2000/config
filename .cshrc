@@ -162,6 +162,9 @@ alias dir 'ls -alg'		# show group, size information
 #alias figner finger
 #alias mroe more
 
+# Danny's aliases
+alias 140 'cd ~cs140/pintos'
+
 #-------------#
 # Completions #
 #-------------#
