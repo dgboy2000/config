@@ -164,6 +164,7 @@ alias dir 'ls -alg'		# show group, size information
 
 # Danny's aliases
 alias 140 'cd ~degoodm/cs140/pintos'
+alias 228 'cd ~degoodm/cs228/ProgrammingAssignments/working'
 
 #-------------#
 # Completions #
